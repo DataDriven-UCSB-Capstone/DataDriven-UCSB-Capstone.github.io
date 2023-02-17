@@ -21,7 +21,7 @@
 title: "DataDriven: About"
 description: >- # this means to ignore newlines until "baseurl:"
   About the DataDriven project and team
-url: "https://about.datadrivenucsb.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://about.datadrivenucsb.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
