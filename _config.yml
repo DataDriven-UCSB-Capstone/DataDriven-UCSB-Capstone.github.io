@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "DataDriven: About"
+title: "DataDriven"
 description: >- # this means to ignore newlines until "baseurl:"
   About the DataDriven project and team
 url: "https://about.datadrivenucsb.com" # the base hostname & protocol for your site, e.g. http://example.com
