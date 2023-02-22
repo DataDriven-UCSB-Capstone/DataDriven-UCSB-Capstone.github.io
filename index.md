@@ -1,5 +1,28 @@
-This is the DataDriven about page! There'll be some interesting files, photos, and other media here soon. 
+## Overview
+Vehicles have penetrated virtually every industry and made themselves essential to many services that are commonplace today. However, most vehicles are expensive investments that also require care and upkeep throughout ownership including routine maintenance and costly sudden repairs. Modern vehicles warn the driver of potential signs of something that needs attention on the dash or through a phone app, but a more scalable solution would be extremely useful for a corporation or business that owns an entire fleet of vehicles. DataDriven is an end-to-end solution that collects live data from vehicles, uploads it to the cloud, and makes it available on a dashboard for analysis. Data from onboard sensors can be used to course-correct the health of vehicles through preventative and predictive maintenance. This system empowers its users to make informed and high-impact decisions that minimize costs and maximize efficiency.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Molestie a iaculis at erat pellentesque adipiscing commodo elit at. Neque egestas congue quisque egestas diam in arcu. Ut placerat orci nulla pellentesque dignissim. Gravida arcu ac tortor dignissim convallis aenean et. Arcu dictum varius duis at consectetur lorem donec massa. Condimentum lacinia quis vel eros donec ac odio tempor. Nunc aliquet bibendum enim facilisis gravida. Fermentum dui faucibus in ornare quam viverra orci. Blandit turpis cursus in hac habitasse platea dictumst quisque sagittis. Adipiscing commodo elit at imperdiet dui accumsan. Eget duis at tellus at urna condimentum.
+*TODO: add a timeline of accomplishments, demos, system architecture, and more project details*
 
-Fermentum dui faucibus in ornare quam viverra. Maecenas ultricies mi eget mauris pharetra et. Semper eget duis at tellus at urna condimentum mattis pellentesque. Velit dignissim sodales ut eu sem integer vitae. Posuere ac ut consequat semper. Leo vel fringilla est ullamcorper eget. A diam maecenas sed enim ut sem viverra aliquet eget. Enim facilisis gravida neque convallis. Fermentum odio eu feugiat pretium nibh ipsum consequat nisl. Volutpat blandit aliquam etiam erat velit. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor.
+## Sponsors & Mentors
+### CACI ([website](https://www.caci.com/))
+Brian Canty
+
+Stefan Crigler
+
+Martin Fay
+
+Austin Hwang
+
+David McCarthy
+
+Eric Nystrom
+
+### UCSB Computer Engineering Capstone ([website](https://web.ece.ucsb.edu/~yoga/capstone/))
+
+Dr. Yoga Isukapalli
+
+Jimmy Kraemer
+
+Venkat Krishnan
+
+Alex Lai
