@@ -2,31 +2,57 @@
 title: "About"
 ---
 
-## Overview
-Vehicles have penetrated virtually every industry and made themselves essential to many services that are commonplace today. However, most vehicles are expensive investments that also require care and upkeep throughout ownership including routine maintenance and costly sudden repairs. Modern vehicles warn the driver of potential signs of something that needs attention on the dash or through a phone app, but a more scalable solution would be extremely useful for a corporation or business that owns an entire fleet of vehicles. DataDriven is an end-to-end solution that collects live data from vehicles, uploads it to the cloud, and makes it available on a dashboard for analysis. Data from onboard sensors can be used to course-correct the health of vehicles through preventative and predictive maintenance. This system empowers its users to make informed and high-impact decisions that minimize costs and maximize efficiency.
+TODO demo video
 
-*TODO: add a timeline of accomplishments, demos, system architecture, and more project details*
+🚙 Vehicles are expensive investments – they need routine maintenance and constant upkeep to avoid costly repairs. At scale, this becomes a complex logistical challenge. Failures can be costly to the fleet owner in vehicle downtime for unexpected maintenance and repairs.
+
+💡 By tracking the routes these vehicles take and cross-referencing it with vehicle diagnostic data, users can find correlations and develop insights.
+
+## 📝 Design Spec
+📍 **Tracker**: sits on the dashboard of the vehicle with a cable connected to the OBD-II port, extracting vehicle diagnostic data and collecting GPS, accelerometer, and gyroscope data via onboard sensors
+
+🗺 **Web App**: an interactive map to track the vehicle location along with a statistics page with a dashboard of KPIs and calculations over historical data. 
+
+## Block Diagram
+![](/_assets/blockdiag-BlockDiagram.drawio.png)
+
+## 🗺 Web App
+TODO
+
+## 📍Tracker
+TODO
+
+**DataDriven Custom PCB**
+
+📡 RF circuitry for LTE and GPS functionality
+
+🔌 Power circuitry to support bench, OBD-II, and microUSB supply
+
+💻 Programmable OPT pins & test points for debugging & flexibility
+
+## 📶 Networking
+TODO
+- With a single on-chip LTE/GNSS modem, our firmware uses time-division multiplexing to concurrently upload UDP datagrams over LTE while maintaining a GPS fix
+
+## 🚙 Vehicle Interface
+TODO
+- Probe for standard OBD-II PIDs as defined by SAE J1979 on standard CAN and extended CAN
+
+## ☁️ Backend
+TODO
+- UDP listener service receives & processes messages from the tracker and persists it to the database
+- API serves the data at endpoints to our frontend at api.datadrivenucsb.com (e.g., /live/{car_id}, /live_all_cars)
+
 
 ## Sponsors & Mentors
-### CACI ([website](https://www.caci.com/))
-Brian Canty
+![](/_assets/1200px-CACI_International_logo__.svg.png)
 
-Stefan Crigler
+https://www.caci.com/
 
-Martin Fay
+John Buckley, Brian Canty, Stefan Crigler, Martin Fay, Duane Gardner, Austin Hwang, David McCarthy, Eric Nystrom
 
-Austin Hwang
-
-David McCarthy
-
-Eric Nystrom
-
-### UCSB Computer Engineering Capstone ([website](https://web.ece.ucsb.edu/~yoga/capstone/))
-
-Dr. Yoga Isukapalli
-
-Jimmy Kraemer
-
-Venkat Krishnan
-
-Alex Lai
+![UCSB Computer Engineering Capstone](/_assets/coe.png)
+https://web.ece.ucsb.edu/~yoga/capstone/
+\
+Dr. Yogananda Isukapalli, Alex Lai, 
+Jimmy Kraemer, Venkat Krishnan
