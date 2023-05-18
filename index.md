@@ -14,7 +14,7 @@ TODO demo video
 🗺 **Web App**: an interactive map to track the vehicle location along with a statistics page with a dashboard of KPIs and calculations over historical data. 
 
 ## Block Diagram
-![](/_assets/blockdiag-BlockDiagram.drawio.png)
+![](/assets/images/blockdiag-BlockDiagram.drawio.png)
 
 ## 🗺 Web App
 TODO
@@ -45,14 +45,19 @@ TODO
 
 
 ## Sponsors & Mentors
-![](/_assets/1200px-CACI_International_logo__.svg.png)
+![](/assets/images/caci.png)
 
-https://www.caci.com/
+[https://www.caci.com/](https://www.caci.com/)
 
 John Buckley, Brian Canty, Stefan Crigler, Martin Fay, Duane Gardner, Austin Hwang, David McCarthy, Eric Nystrom
 
-![UCSB Computer Engineering Capstone](/_assets/coe.png)
-https://web.ece.ucsb.edu/~yoga/capstone/
-\
+![](/assets/images/coe.png) 
+
+[https://web.ece.ucsb.edu/~yoga/capstone/](https://web.ece.ucsb.edu/~yoga/capstone/)
+
+![](/assets/images/ce.png)
+
+[https://ce.ucsb.edu](https://ce.ucsb.edu)
+
 Dr. Yogananda Isukapalli, Alex Lai, 
 Jimmy Kraemer, Venkat Krishnan
