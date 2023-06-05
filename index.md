@@ -1,23 +1,20 @@
 TODO demo video
 
-🚙 Vehicles are expensive investments – they need routine maintenance and constant upkeep to avoid costly repairs. At scale, this becomes a complex logistical challenge. Failures can be costly to the fleet owner in vehicle downtime for unexpected maintenance and repairs.
+🚙 Vehicles are expensive investments – they need routine maintenance and constant upkeep to avoid costly repairs. At scale, this becomes a complex logistical challenge. Failures can be costly to the fleet owner in vehicle downtime for unexpected maintenance and repairs.​
 
 💡 By tracking the routes these vehicles take and cross-referencing it with vehicle diagnostic data, users can find correlations and develop insights.
 
 ## 📝 Design Spec
-📍 **Tracker**: sits on the dashboard of the vehicle with a cable connected to the OBD-II port, extracting vehicle diagnostic data and collecting GPS, accelerometer, and gyroscope data via onboard sensors
+📍 **Tracker**: sits on the dashboard of the vehicle with a cable connected to the OBD-II port, extracting vehicle diagnostic data and collecting GPS, accelerometer, and gyroscope data via onboard sensors.
 
 🗺 **Web App**: an interactive map to track the vehicle location along with a statistics page with a dashboard of KPIs and calculations over historical data. 
 
 ## Block Diagram
-![](/assets/images/blockdiag-BlockDiagram.drawio.png)
+![](/assets/images/blockdiagfinal_.svg)
 
-## 🗺 Web App
-TODO
-
-## 📍Tracker
-TODO
-
+## 💽 Web App
+![](/assets/videos/webappoverview.mp4)
+ 
 **DataDriven Custom PCB**
 
 📡 RF circuitry for LTE and GPS functionality
