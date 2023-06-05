@@ -13,7 +13,8 @@ TODO demo video
 ![](/assets/images/blockdiagfinal_.svg)
 
 ## 💽 Web App
-![](/assets/videos/webappoverview.mp4)
+https://github.com/DataDriven-UCSB-Capstone/DataDriven-UCSB-Capstone.github.io/assets/56094467/f0266622-3c80-459a-8f36-57c921fc480e
+
  
 **DataDriven Custom PCB**
 
