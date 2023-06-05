@@ -1,7 +1,3 @@
----
-title: "About"
----
-
 TODO demo video
 
 🚙 Vehicles are expensive investments – they need routine maintenance and constant upkeep to avoid costly repairs. At scale, this becomes a complex logistical challenge. Failures can be costly to the fleet owner in vehicle downtime for unexpected maintenance and repairs.
