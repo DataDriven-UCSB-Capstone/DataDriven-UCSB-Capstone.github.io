@@ -14,8 +14,8 @@ TODO demo video
 
 ## 💽 Web App
 <video controls>
-  <source type="video/mp4" src="https://github.com/DataDriven-UCSB-Capstone/DataDriven-UCSB-Capstone.github.io/assets/56094467/f0266622-3c80-459a-8f36-57c921fc480e">
-</video> 
+  <source type="video/mp4" src="https://github.com/DataDriven-UCSB-Capstone/DataDriven-UCSB-Capstone.github.io/assets/56094467/b3c4c8e8-3df9-4ab0-8d19-7ed0ce426a43">
+</video>
 
 ## 📍 Tracker (Custom PCB)
 ![](/assets/images/pcb.png)
