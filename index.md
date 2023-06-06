@@ -39,15 +39,14 @@ TODO DIAGRAM
 
 ## Sponsors & Mentors
 
-[![](/assets/images/caci.png)]([https://www.caci.com/](https://www.caci.com/)
+[![](/assets/images/caci.png)](https://www.caci.com/)
 )
 
 John Buckley, Brian Canty, Stefan Crigler, Martin Fay, Duane Gardner, Austin Hwang, David McCarthy, Eric Nystrom
 
-[![](/assets/images/coe.png) ]([https://web.ece.ucsb.edu/~yoga/capstone/](https://web.ece.ucsb.edu/~yoga/capstone/)
-)
+[![](/assets/images/coe.png)](https://web.ece.ucsb.edu/~yoga/capstone/)
 
-[![](/assets/images/ce.png)]([https://ce.ucsb.edu](https://ce.ucsb.edu))
+[![](/assets/images/ce.png)](https://ce.ucsb.edu)
 
 Dr. Yogananda Isukapalli, Alex Lai, 
 Jimmy Kraemer, Venkat Krishnan
