@@ -13,9 +13,9 @@ TODO demo video
 ![](/assets/images/blockdiagfinal_.svg)
 
 ## 💽 Web App
- <iframe
-src="https://www.youtube.com/embed/sHf9bEI_1CY">
-</iframe> 
+<video controls>
+  <source type="video/mp4" src="https://github.com/DataDriven-UCSB-Capstone/DataDriven-UCSB-Capstone.github.io/assets/56094467/f0266622-3c80-459a-8f36-57c921fc480e">
+</video> 
 
 ## 📍 Tracker (Custom PCB)
 ![](/assets/images/pcb.png)
