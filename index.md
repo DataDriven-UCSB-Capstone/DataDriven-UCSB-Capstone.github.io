@@ -13,7 +13,7 @@
 ![](/assets/images/blockdiagfinal_.svg)
 
 ## 💽 Web App
-{% include youtube.html id="sHf9bEI_1CY" %}
+{% include youtube_embed.html id="sHf9bEI_1CY" %}
 
 ## 📍 Tracker (Custom PCB)
 ![](/assets/images/pcb.png)
@@ -25,7 +25,7 @@
 💻 Programmable OPT pins & test points for debugging & flexibility
 
 ### Installation
-{% include youtube.html id="iIEqfqWZ1bM" %}
+{% include youtube_embed.html id="iIEqfqWZ1bM" %}
 
 ## 📶 Networking
 TODO DIAGRAM
