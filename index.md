@@ -13,7 +13,9 @@
 ![](/assets/images/blockdiagfinal_.svg)
 
 ## 💽 Web App
-{% include youtube_embed.html id="sHf9bEI_1CY" %}
+<video controls>
+  <source type="video/mp4" src="assets/videos/webappoverview.mp4">
+</video> 
 
 ## 📍 Tracker (Custom PCB)
 ![](/assets/images/pcb.png)
@@ -25,7 +27,10 @@
 💻 Programmable OPT pins & test points for debugging & flexibility
 
 ### Installation
-{% include youtube_embed.html id="iIEqfqWZ1bM" %}
+
+<video controls>
+  <source type="video/mp4" src="assets/videos/trackerinstallation.mp4">
+</video> 
 
 ## 📶 Networking
 TODO DIAGRAM
