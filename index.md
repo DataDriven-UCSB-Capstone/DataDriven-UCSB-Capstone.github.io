@@ -13,7 +13,7 @@
 ![](/assets/images/blockdiagfinal_.svg)
 
 ## 💽 Web App
-<video controls>
+<video width=700 controls>
   <source type="video/mp4" src="assets/videos/webappoverview.mp4">
 </video> 
 
@@ -28,7 +28,7 @@
 
 ### Installation
 
-<video controls>
+<video width=700 controls>
   <source type="video/mp4" src="assets/videos/trackerinstallation.mp4">
 </video> 
 
