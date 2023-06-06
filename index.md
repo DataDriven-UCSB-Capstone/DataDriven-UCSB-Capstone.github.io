@@ -32,15 +32,14 @@
   <source type="video/mp4" src="assets/videos/trackerinstallation.mp4">
 </video> 
 
-## 📶 Networking
-TODO DIAGRAM
+## 📶 Firmware & Networking
+![](/assets/images/firmware_diagram.png)
 
 📡 With a single on-chip LTE/GNSS modem, our firmware uses time-division multiplexing to concurrently upload UDP datagrams over LTE while maintaining a GPS fix
 
 ## Sponsors & Mentors
 
 [![](/assets/images/caci.png)](https://www.caci.com/)
-)
 
 John Buckley, Brian Canty, Stefan Crigler, Martin Fay, Duane Gardner, Austin Hwang, David McCarthy, Eric Nystrom
 
