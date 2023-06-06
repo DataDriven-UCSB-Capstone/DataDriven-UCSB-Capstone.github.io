@@ -13,10 +13,12 @@ TODO demo video
 ![](/assets/images/blockdiagfinal_.svg)
 
 ## 💽 Web App
-https://github.com/DataDriven-UCSB-Capstone/DataDriven-UCSB-Capstone.github.io/assets/56094467/f0266622-3c80-459a-8f36-57c921fc480e
+ <iframe width="420" height="315"
+src="https://youtu.be/sHf9bEI_1CY">
+</iframe> 
 
- 
-**DataDriven Custom PCB**
+## 📍 Tracker (Custom PCB)
+![](/assets/images/pcb.png)
 
 📡 RF circuitry for LTE and GPS functionality
 
@@ -25,33 +27,20 @@ https://github.com/DataDriven-UCSB-Capstone/DataDriven-UCSB-Capstone.github.io/a
 💻 Programmable OPT pins & test points for debugging & flexibility
 
 ## 📶 Networking
-TODO
-- With a single on-chip LTE/GNSS modem, our firmware uses time-division multiplexing to concurrently upload UDP datagrams over LTE while maintaining a GPS fix
-
-## 🚙 Vehicle Interface
-TODO
-- Probe for standard OBD-II PIDs as defined by SAE J1979 on standard CAN and extended CAN
-
-## ☁️ Backend
-TODO
-- UDP listener service receives & processes messages from the tracker and persists it to the database
-- API serves the data at endpoints to our frontend at api.datadrivenucsb.com (e.g., /live/{car_id}, /live_all_cars)
-
+TODO DIAGRAM
+With a single on-chip LTE/GNSS modem, our firmware uses time-division multiplexing to concurrently upload UDP datagrams over LTE while maintaining a GPS fix
 
 ## Sponsors & Mentors
-![](/assets/images/caci.png)
 
-[https://www.caci.com/](https://www.caci.com/)
+[![](/assets/images/caci.png)]([https://www.caci.com/](https://www.caci.com/)
+)
 
 John Buckley, Brian Canty, Stefan Crigler, Martin Fay, Duane Gardner, Austin Hwang, David McCarthy, Eric Nystrom
 
-![](/assets/images/coe.png) 
+[![](/assets/images/coe.png) ]([https://web.ece.ucsb.edu/~yoga/capstone/](https://web.ece.ucsb.edu/~yoga/capstone/)
+)
 
-[https://web.ece.ucsb.edu/~yoga/capstone/](https://web.ece.ucsb.edu/~yoga/capstone/)
-
-![](/assets/images/ce.png)
-
-[https://ce.ucsb.edu](https://ce.ucsb.edu)
+[![](/assets/images/ce.png)]([https://ce.ucsb.edu](https://ce.ucsb.edu))
 
 Dr. Yogananda Isukapalli, Alex Lai, 
 Jimmy Kraemer, Venkat Krishnan
