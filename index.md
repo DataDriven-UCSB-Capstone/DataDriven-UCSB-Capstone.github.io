@@ -1,4 +1,4 @@
-TODO demo video
+
 
 🚙 Vehicles are expensive investments – they need routine maintenance and constant upkeep to avoid costly repairs. At scale, this becomes a complex logistical challenge. Failures can be costly to the fleet owner in vehicle downtime for unexpected maintenance and repairs.​
 
@@ -13,9 +13,7 @@ TODO demo video
 ![](/assets/images/blockdiagfinal_.svg)
 
 ## 💽 Web App
-<video controls>
-  <source type="video/mp4" src="https://github.com/DataDriven-UCSB-Capstone/DataDriven-UCSB-Capstone.github.io/assets/56094467/b3c4c8e8-3df9-4ab0-8d19-7ed0ce426a43">
-</video>
+{% include youtube.html id="sHf9bEI_1CY" %}
 
 ## 📍 Tracker (Custom PCB)
 ![](/assets/images/pcb.png)
@@ -26,9 +24,13 @@ TODO demo video
 
 💻 Programmable OPT pins & test points for debugging & flexibility
 
+### Installation
+{% include youtube.html id="iIEqfqWZ1bM" %}
+
 ## 📶 Networking
 TODO DIAGRAM
-With a single on-chip LTE/GNSS modem, our firmware uses time-division multiplexing to concurrently upload UDP datagrams over LTE while maintaining a GPS fix
+
+📡 With a single on-chip LTE/GNSS modem, our firmware uses time-division multiplexing to concurrently upload UDP datagrams over LTE while maintaining a GPS fix
 
 ## Sponsors & Mentors
 
