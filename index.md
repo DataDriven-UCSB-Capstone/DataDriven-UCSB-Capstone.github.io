@@ -1,4 +1,9 @@
+# About
 
+## System Overview & Demo
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/JWgRRGsqYg8/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+**🏆 Distinguished Technical Achievement in CE (2nd Place)**
 
 🚙 Vehicles are expensive investments – they need routine maintenance and constant upkeep to avoid costly repairs. At scale, this becomes a complex logistical challenge. Failures can be costly to the fleet owner in vehicle downtime for unexpected maintenance and repairs.​
 
@@ -12,11 +17,6 @@
 ## Block Diagram
 ![](/assets/images/blockdiagfinal_.svg)
 
-## 💽 Web App
-<video controls>
-  <source type="video/mp4" src="assets/videos/webappoverview.mp4">
-</video> 
-
 ## 📍 Tracker (Custom PCB)
 ![](/assets/images/pcb.png)
 
@@ -26,11 +26,6 @@
 
 💻 Programmable OPT pins & test points for debugging & flexibility
 
-### Installation
-
-<video controls>
-  <source type="video/mp4" src="assets/videos/trackerinstallation.mp4">
-</video> 
 
 ## 📶 Firmware & Networking
 ![](/assets/images/firmware_diagram.png)
