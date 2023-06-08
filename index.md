@@ -33,10 +33,10 @@
 ## 📎 Presentation Materials
 
 ### 🛝 Slides
-<object data="assets/pdfs/datadriven_pr.pdf" width="560" height="340" type="application/pdf"></object>
+<object data="assets/pdfs/datadriven_pr.pdf" width="100%" height="440" type="application/pdf"></object>
 
 ### 📰 Poster
-<object data="assets/pdfs/datadriven_po.pdf" width="560" height="450" type="application/pdf"></object>
+<object data="assets/pdfs/datadriven_po.pdf" width="100%" height="580" type="application/pdf"></object>
 
 # Sponsors & Mentors
 
