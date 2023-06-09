@@ -1,4 +1,14 @@
+🎉 June 8th, 2023 (Capstone Day) Update:
+
 **🏆 Distinguished Technical Achievement in CE (2nd Place)**
+
+Thank you so much Professor Yoga, the TAs, CE facaulty, organizers, and our sponsor CACI! This year-long project has been an invaluable learning experience to collabrate as a team on an ambitious HW/SW project from designing a PCB to deploying a highly modular and extensible full-stack web app and API.
+
+As the project comes to an end, this about page will still be active but the AWS backend infrastructure for the web app will be shut down soon. Feel free to check out the demo video to see our system in action!
+
+Thanks again,
+
+\- the DataDriven team (Hyun Kyum Kim, Brian Li, Bryan Olivares, Nicholas Tran, Arjun Vinod)
 
 ## 🎬 System Overview & Demo
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/JWgRRGsqYg8/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
@@ -48,5 +58,4 @@ John Buckley, Brian Canty, Stefan Crigler, Martin Fay, Duane Gardner, Austin Hwa
 
 [![](/assets/images/ce.png)](https://ce.ucsb.edu)
 
-Dr. Yogananda Isukapalli, Alex Lai, 
-Jimmy Kraemer, Venkat Krishnan
+Dr. Yogananda Isukapalli, Alex Lai, Jimmy Kraemer, Venkat Krishnan
