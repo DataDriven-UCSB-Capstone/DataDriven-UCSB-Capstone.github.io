@@ -2,7 +2,7 @@
 
 **🏆 Distinguished Technical Achievement in CE (2nd Place)**
 
-Thank you so much Professor Yoga, the TAs, CE facaulty, organizers, and our sponsor CACI! This year-long project has been an invaluable learning experience to collabrate as a team on an ambitious HW/SW project from designing a PCB to deploying a highly modular and extensible full-stack web app and API.
+Thank you so much Professor Yoga, the TAs, CE faculty, organizers, and our sponsor CACI! This year-long project has been an invaluable learning experience to collaborate as a team on an ambitious HW/SW project from designing a PCB to deploying a highly modular and extensible full-stack web app and API.
 
 As the project comes to an end, this about page will still be active but the AWS backend infrastructure for the web app will be shut down soon. Feel free to check out the demo video to see our system in action!
 
@@ -20,7 +20,7 @@ Thanks again,
 ## 📝 Design Spec
 📍 **Tracker**: sits on the dashboard of the vehicle with a cable connected to the OBD-II port, extracting vehicle diagnostic data and collecting GPS, accelerometer, and gyroscope data via onboard sensors.
 
-🗺 **Web App**: an interactive map to track the vehicle location along with a statistics page with a dashboard of KPIs and calculations over historical data. 
+🗺 **Web App**: an interactive map to track the vehicle location along with a statistics page with a dashboard of KPIs and calculations over historical data.
 
 ## Block Diagram
 ![](/assets/images/blockdiagfinal_.svg)
